@@ -1,0 +1,15 @@
+{
+  "name": "modulo3",
+  "version": "1.0.0",
+  "description": "factory method",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Khadidja Moraes",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
